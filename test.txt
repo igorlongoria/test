@@ -1,1 +1,1 @@
-This a test for conflict. 
+This is a test for conflicts. 
